@@ -15,9 +15,8 @@ Jenkins is a self-contained Java-based program, ready to run out-of-the-box, wit
 	- #java -version				*(To check the current java version)*
 	- #yum remove java-1.0.7* 			*(Removing older version of java in server)* 
 	- #yum install java-1.8*
-		or
-		
-	-#yum install (*New version Link*)
+	or
+	- #yum install (*New version Link*)
 
 
 ## Install Jenkins
