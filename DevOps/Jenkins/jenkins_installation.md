@@ -10,8 +10,8 @@ Jenkins is a self-contained Java-based program, ready to run out-of-the-box, wit
    - With Internet Access
    - Security Group with Type: `Custome TCP` ,Port `8080` open for internet
 2. Login through Putty
-	- $sudo su -				(To go to `/root` directly, if we use only $sudo su ( without - ), we willl land at home/ec2-user as a root user)
-4. Java 11 should be installed  
+	- $sudo su -				*(To go to `/root` directly, if we use only $sudo su ( without - ), we willl land at home/ec2-user as a root user)*
+3. Java 11 should be installed  
 
 
 ## Install Jenkins
